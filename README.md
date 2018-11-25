@@ -5,8 +5,7 @@ Termux is a terminal emulator and Linux environment for Android
 **Note**
 
 termux-sudo was originally hosted on GitHub.  
-Due to the fact that Microsoft is purchasing GitHub, I have decided to move it here.
-
+Due to the fact that Termux sudo was deleted from Github i decide to upload it for the public use
 **Requirements**
 
 Rooted phone with su binary  
@@ -51,6 +50,6 @@ sudo <command> [<args>]
 ```
 
 **This was inspired by the following:**
-
+https://github.com/st42/termux-sudo
 https://github.com/cswl/tsu  
 https://gist.github.com/cswl/cd13971e644dc5ced7b2  
